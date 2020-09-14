@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projectss
 subtitle: The reasons why I have a lot less time to socialize
 ---
 

@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Ramshankar Yadhunath
+title: Harsh Malra.
 
 # Short description of your site
-description: Portfolio Website
+description: Data Science Portfolio Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Portfolio Website
 navbar-links:
   # My Data Journey: ""
   About Me: "aboutme"
-  Projects: "projects"
+  Projectss: "projects"
   Publications: "publications"
   Miscellaneous : "misc"
   Resume: "resume"
