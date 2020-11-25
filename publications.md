@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle : Research and other allied interests
+subtitle : My Articles and Posts, worth Sharing.
 ---
 
 ### Identification of Criminal Activity Hotspots using Machine Learning to aid in Effective Utilization of Police Patrolling in Cities with High Crime Rates

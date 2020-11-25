@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projectss
-subtitle: The reasons why I have a lot less time to socialize
+subtitle: The things I spend most of my time on.
 ---
 
 ### How have I organized this page ?

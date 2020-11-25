@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Harsh Malra.
+title: Harsh Malra
 
 # Short description of your site
-description: Data Science Portfolio Website
+description: My Data Science Portfolio Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -61,7 +61,7 @@ footer-link-col: "#777777"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ramshankar Yadhunath
+  name: Harsh Malra
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,17 +69,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-  email: "yadramshankar@gmail.com"
+  email: "malraharsh@gmail.com"
 #  facebook: deanattali
-  github: ry05
-  twitter: thedatacrack
-  medium: "@yadramshankar"
+  github: malraharsh
+  twitter: harshm15
+  # medium: ""
 #  reddit: yourname
-  linkedin: ramshankar-yadhunath-324a99155
+  linkedin: malraharsh
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: ramshankaryadhunath
+  # instagram: ramshankaryadhunath
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -120,7 +120,7 @@ google_analytics: "UA-165295579-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "ry05"
+# disqus: "zayn"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
